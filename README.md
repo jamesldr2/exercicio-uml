@@ -13,3 +13,11 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 
 
+# UML
+
+![image](https://github.com/jamesldr2/exercicio-uml/assets/142739809/bea49812-9c95-4297-957e-57777b7afd1f)
+
+
+
+
+
